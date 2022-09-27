@@ -133,6 +133,7 @@ tr:hover .cut { opacity: 1; }
 	body { box-shadow: none; margin: 0; }
 	span:empty { display: none; }
 	.add, .cut { display: none; }
+	#c_box{ display: none; }
 }
 
 @page { margin: 0; }
