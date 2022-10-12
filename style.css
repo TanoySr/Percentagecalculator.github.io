@@ -17,7 +17,12 @@
 	text-decoration: none;
 	vertical-align: top;
 }
+#invoice_format{
+  border: 2px solid black;
+  padding: 3px;
 
+  
+}
 
 /* content editable */
 
